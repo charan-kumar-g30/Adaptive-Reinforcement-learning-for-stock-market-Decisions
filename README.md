@@ -34,7 +34,7 @@ cd trade-signal-dashboard-main && npm run dev
 
 ## 📸 Screenshots
 
-Add frontend screenshots here after capturing from the running dashboard:
+Live dashboard images from the React frontend:
 
 | Dashboard | Market | Assistant |
 |-----------|--------|-----------|
