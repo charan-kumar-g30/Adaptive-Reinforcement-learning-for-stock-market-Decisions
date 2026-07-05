@@ -2,7 +2,8 @@
 
 > **Deep Reinforcement Learning (PPO) + GPU Acceleration + Institutional Macro Context + Local AI Assistant**
 
-**Owner:** Charan Kumar
+**Owner:** Charan Kumar  
+**GitHub:** https://github.com/charan-kumar-g30/Adaptive-Reinforcement-learning-for-stock-market-Decisions
 
 ## 🎯 What This Is
 
